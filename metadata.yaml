@@ -1,0 +1,43 @@
+_repo: Mammy-Tittleback-and-Her-Family--A-True-Story-of-Seventeen-Cats_33240
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ledyard, Addie
+    gutenberg_agent_id: '33628'
+    url: http://www.gutenberg.org/2009/agents/33628
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Jackson, H. H. (Helen Hunt)
+    - Hunt, Helen Maria Fiske
+    - Jackson, Helen Maria Fiske Hunt
+    - Holm, Saxe
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: ''
+gutenberg_issued: '2010-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: 'Mammy Tittleback and Her Family: A True Story of Seventeen Cats'
+url: http://www.gutenberg.org/ebooks/33240
